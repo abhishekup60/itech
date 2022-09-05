@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkitech=self.webpackChunkitech||[]).push([[911],{911:function(n,e,i){i.r(e),i.d(e,{default:function(){return c}});i(791);var t=i(184);function c(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsxs)("div",{children:[(0,t.jsx)("h1",{children:"Hiii"}),"Contact Us"]})})}}}]);
+//# sourceMappingURL=911.81567a8c.chunk.js.map

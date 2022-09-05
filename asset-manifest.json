@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itech/static/css/main.073c9b0a.css",
+    "main.js": "/itech/static/js/main.d5b60549.js",
+    "static/css/308.0a12f2b1.chunk.css": "/itech/static/css/308.0a12f2b1.chunk.css",
+    "static/js/308.cd0df8f3.chunk.js": "/itech/static/js/308.cd0df8f3.chunk.js",
+    "static/js/60.17584a4f.chunk.js": "/itech/static/js/60.17584a4f.chunk.js",
+    "static/js/911.81567a8c.chunk.js": "/itech/static/js/911.81567a8c.chunk.js",
+    "static/js/787.8980abd9.chunk.js": "/itech/static/js/787.8980abd9.chunk.js",
+    "index.html": "/itech/index.html",
+    "main.073c9b0a.css.map": "/itech/static/css/main.073c9b0a.css.map",
+    "main.d5b60549.js.map": "/itech/static/js/main.d5b60549.js.map",
+    "308.0a12f2b1.chunk.css.map": "/itech/static/css/308.0a12f2b1.chunk.css.map",
+    "308.cd0df8f3.chunk.js.map": "/itech/static/js/308.cd0df8f3.chunk.js.map",
+    "60.17584a4f.chunk.js.map": "/itech/static/js/60.17584a4f.chunk.js.map",
+    "911.81567a8c.chunk.js.map": "/itech/static/js/911.81567a8c.chunk.js.map",
+    "787.8980abd9.chunk.js.map": "/itech/static/js/787.8980abd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5b60549.js"
+  ]
+}
